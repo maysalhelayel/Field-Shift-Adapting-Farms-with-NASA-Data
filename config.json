@@ -1,0 +1,22 @@
+{
+  "latitude": 32.55,
+  "longitude": 35.85,
+  "start_date": "20160101",
+  "end_date": "20251231",
+  "current": "wheat",
+  "sow": "11-01",
+  "harvest": "05-31",
+  "irrigation": "rainfed",
+  "soil": "unknown",
+  "allowed": [
+    "wheat",
+    "barley",
+    "lentil",
+    "vetch"
+  ],
+  "heat": 35,
+  "frost": 0,
+  "rain": 1,
+  "heavy": 20,
+  "case_type": "demonstration; farming practices assumed"
+}

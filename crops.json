@@ -1,0 +1,50 @@
+{
+  "wheat": {
+    "ar": "قمح",
+    "family": "Poaceae",
+    "fodder": false,
+    "root_depth_m": null,
+    "kc": null,
+    "source": "FAO56 Ch6; botanical family: Kew POWO Triticum aestivum",
+    "notes": "تواريخ العرض ليست توصية صنفية محلية",
+    "fodder_flag_status": "assumed end-use for this demonstration, not an exclusive botanical property",
+    "botanical_reference": "https://powo.science.kew.org/results?q=Triticum%20aestivum",
+    "local_suitability": "unverified; local agronomist and cultivar assessment needed"
+  },
+  "barley": {
+    "ar": "شعير",
+    "family": "Poaceae",
+    "fodder": true,
+    "root_depth_m": null,
+    "kc": null,
+    "source": "FAO56 Ch6; Kew POWO Hordeum vulgare",
+    "notes": "استخدام حبوب أو علف مشروط بالإدارة والسوق",
+    "fodder_flag_status": "assumed end-use for this demonstration, not an exclusive botanical property",
+    "botanical_reference": "https://powo.science.kew.org/results?q=Hordeum%20vulgare",
+    "local_suitability": "unverified; local agronomist and cultivar assessment needed"
+  },
+  "lentil": {
+    "ar": "عدس",
+    "family": "Fabaceae",
+    "fodder": false,
+    "root_depth_m": null,
+    "kc": null,
+    "source": "FAO56 Ch6; Kew POWO Lens culinaris",
+    "notes": "بقول؛ النيتروجين غير مقدر",
+    "fodder_flag_status": "assumed end-use for this demonstration, not an exclusive botanical property",
+    "botanical_reference": "https://powo.science.kew.org/results?q=Lens%20culinaris",
+    "local_suitability": "unverified; local agronomist and cultivar assessment needed"
+  },
+  "vetch": {
+    "ar": "بيقية",
+    "family": "Fabaceae",
+    "fodder": true,
+    "root_depth_m": null,
+    "kc": null,
+    "source": "SARE Managing Cover Crops Profitably: Hairy Vetch; Kew POWO Vicia villosa",
+    "notes": "علف/تغطية؛ يحتاج إنهاء مناسبًا ومراجعة محلية",
+    "fodder_flag_status": "assumed end-use for this demonstration, not an exclusive botanical property",
+    "botanical_reference": "https://powo.science.kew.org/results?q=Vicia%20villosa",
+    "local_suitability": "unverified; local agronomist and cultivar assessment needed"
+  }
+}

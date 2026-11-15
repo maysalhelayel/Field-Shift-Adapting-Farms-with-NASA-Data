@@ -1,0 +1,20 @@
+[project]
+name = "crop-rotation-explorer"
+version = "1.0.0"
+description = "Arabic auditable NASA POWER crop rotation decision support"
+requires-python = ">=3.11,<3.14"
+dynamic = ["dependencies"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["crop_rotation"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
